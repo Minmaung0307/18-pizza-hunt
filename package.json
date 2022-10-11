@@ -2,7 +2,7 @@
   "name": "18-nosql",
   "version": "1.0.0",
   "private": true,
-  "description": "",
+  "description": "This is the app for assignment",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -10,7 +10,7 @@
   "keywords": [
     "heroku"
   ],
-  "author": "",
+  "author": "Min Maung",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
